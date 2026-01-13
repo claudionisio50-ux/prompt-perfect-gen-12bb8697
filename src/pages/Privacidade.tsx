@@ -37,7 +37,7 @@ const Privacidade = () => {
               <div>
                 <h2 className="text-2xl font-bold text-foreground mb-4">1. Introdução</h2>
                 <p>
-                  A Construsite está comprometida em proteger sua privacidade. Esta política explica como coletamos, usamos e protegemos suas informações pessoais de forma simples e clara.
+                  A Vitrine Ativa está comprometida em proteger sua privacidade. Esta política explica como coletamos, usamos e protegemos suas informações pessoais de forma simples e clara.
                 </p>
               </div>
 
@@ -91,8 +91,8 @@ const Privacidade = () => {
                 <h2 className="text-2xl font-bold text-foreground mb-4">7. Contato</h2>
                 <p>
                   Para exercer seus direitos ou esclarecer dúvidas sobre esta política, entre em contato pelo e-mail{" "}
-                  <a href="mailto:contato@construsite.com.br" className="text-primary hover:underline">
-                    contato@construsite.com.br
+                  <a href="mailto:contato@vitrineativa.com.br" className="text-primary hover:underline">
+                    contato@vitrineativa.com.br
                   </a>{" "}
                   ou pelo WhatsApp.
                 </p>

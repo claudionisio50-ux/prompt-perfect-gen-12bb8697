@@ -36,7 +36,7 @@ export const Services = () => {
             Nossos Serviços
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-2">
-            O que a Construsite faz por você
+            O que a Vitrine Ativa faz por você
           </h2>
         </motion.div>
 

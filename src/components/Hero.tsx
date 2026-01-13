@@ -40,7 +40,7 @@ export const Hero = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8"
           >
-            A Construsite cria sites modernos, claros e focados em gerar orçamentos pelo WhatsApp. Sem complicação, com resultado.
+            A Vitrine Ativa cria sites modernos, claros e focados em gerar orçamentos pelo WhatsApp. Sem complicação, com resultado.
           </motion.p>
 
           <motion.div
