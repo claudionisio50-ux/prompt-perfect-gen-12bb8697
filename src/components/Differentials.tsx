@@ -36,7 +36,7 @@ export const Differentials = () => {
           className="text-center mb-12"
         >
           <span className="text-primary text-sm font-semibold uppercase tracking-wider">
-            Por que a Construsite
+            Por que a Vitrine Ativa
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mt-2">
             Nossos diferenciais

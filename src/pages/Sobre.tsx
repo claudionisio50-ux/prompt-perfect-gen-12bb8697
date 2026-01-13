@@ -38,7 +38,7 @@ const Sobre = () => {
             </span>
             <h1 className="text-4xl md:text-5xl font-bold text-foreground mt-2 mb-6">
               Conheça a{" "}
-              <span className="text-gradient">Construsite</span>
+              <span className="text-gradient">Vitrine Ativa</span>
             </h1>
             <p className="text-lg text-muted-foreground">
               Uma empresa que nasceu para ajudar pequenos e médios comércios a terem presença digital profissional.
@@ -62,7 +62,7 @@ const Sobre = () => {
               </h2>
               <div className="space-y-4 text-muted-foreground text-lg">
                 <p>
-                  A Construsite ajuda pequenos e médios comércios a se posicionarem melhor na internet por meio de sites profissionais, modernos e objetivos.
+                  A Vitrine Ativa ajuda pequenos e médios comércios a se posicionarem melhor na internet por meio de sites profissionais, modernos e objetivos.
                 </p>
                 <p>
                   Nosso foco é criar presença digital que realmente gere contato e oportunidades de negócio. Acreditamos que todo negócio, independente do tamanho, merece um site que trabalhe por ele.
@@ -80,7 +80,7 @@ const Sobre = () => {
               className="bg-gradient-card border border-border rounded-2xl p-8 md:p-12"
             >
               <div className="aspect-square bg-muted/30 rounded-lg flex items-center justify-center">
-                <span className="text-6xl font-bold text-gradient">C</span>
+                <span className="text-6xl font-bold text-gradient">VA</span>
               </div>
             </motion.div>
           </div>
@@ -174,7 +174,7 @@ const Sobre = () => {
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
               >
-                Fale com a Construsite
+                Fale com a Vitrine Ativa
                 <ArrowRight size={18} />
               </a>
             </Button>

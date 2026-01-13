@@ -12,7 +12,7 @@ export const Footer = () => {
           <div className="md:col-span-2">
             <Link to="/" className="inline-block mb-4">
               <span className="text-2xl font-bold text-foreground">
-                Constru<span className="text-gradient">site</span>
+                Vitrine <span className="text-gradient">Ativa</span>
               </span>
             </Link>
             <p className="text-muted-foreground max-w-sm">
@@ -69,7 +69,7 @@ export const Footer = () => {
               </li>
               <li>
                 <a
-                  href="mailto:contato@construsite.com.br"
+                  href="mailto:contato@vitrineativa.com.br"
                   className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
                 >
                   <Mail size={18} />
@@ -78,7 +78,7 @@ export const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://instagram.com/construsite"
+                  href="https://instagram.com/vitrineativa"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
@@ -93,7 +93,7 @@ export const Footer = () => {
 
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} Construsite. Todos os direitos reservados.
+            © {currentYear} Vitrine Ativa. Todos os direitos reservados.
           </p>
         </div>
       </div>

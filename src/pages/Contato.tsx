@@ -15,17 +15,17 @@ const contactMethods = [
   {
     icon: Mail,
     title: "E-mail",
-    description: "contato@construsite.com.br",
+    description: "contato@vitrineativa.com.br",
     action: "Enviar e-mail",
-    href: "mailto:contato@construsite.com.br",
+    href: "mailto:contato@vitrineativa.com.br",
     highlight: false,
   },
   {
     icon: Instagram,
     title: "Instagram",
-    description: "@construsite",
+    description: "@vitrineativa",
     action: "Seguir no Instagram",
-    href: "https://instagram.com/construsite",
+    href: "https://instagram.com/vitrineativa",
     highlight: false,
   },
 ];
