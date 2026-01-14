@@ -61,10 +61,10 @@ export const Hero = () => {
                   href="https://wa.me/5500000000000"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-2"
+                  className="flex items-center gap-2 text-lg"
                 >
                   Peça seu orçamento no WhatsApp
-                  <ArrowRight size={18} />
+                  <ArrowRight size={20} />
                 </a>
               </Button>
               <Button
