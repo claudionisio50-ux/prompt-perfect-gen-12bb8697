@@ -23,7 +23,7 @@ export const Hero = () => {
               className="inline-flex items-center gap-2 bg-card/50 backdrop-blur-sm border border-border px-4 py-2 rounded-full mb-6"
             >
               <Sparkles size={16} className="text-primary" />
-              <span className="text-sm text-muted-foreground">Sites que geram resultados</span>
+              <span className="text-base text-muted-foreground">Sites que geram resultados</span>
             </motion.div>
 
             <motion.h1
