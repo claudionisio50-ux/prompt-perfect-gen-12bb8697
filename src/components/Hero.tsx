@@ -38,7 +38,7 @@ export const Hero = () => {
             delay: 0.1
           }} className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight mb-6">
               Sites profissionais para{" "}
-              <span className="text-gradient">pequenos e médios comérCIOS</span>{" "}
+              <span className="text-gradient">pequenos e médios comércios</span>{" "}
               que querem atrair mais clientes
             </motion.h1>
 
